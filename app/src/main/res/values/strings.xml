@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">CRUD-SQLite-Multiple-Tables</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_create_subject">CreateSubjectActivity</string>
+    <string name="registration_no">NIM</string>
+    <string name="email">Email</string>
+    <string name="phone">No. Telp</string>
+    <string name="cross_image_content_description">Delete Mahasiswa from SQLite database</string>
+    <string name="empty_list_message">Tidak ada List!</string>
+    <string name="student_name">Nama Mahasiswa</string>
+    <string name="update">Update</string>
+    <string name="cancel_button">Batal</string>
+    <string name="create_button">Tambah</string>
+    <string name="all_delete">All Delete</string>
+    <string name="edit_button_description">Edit Informasi Mahasiswa</string>
+    <string name="subject_name">Nama Mata Kuliah</string>
+    <string name="subject_code">Kode Mata Kuliah</string>
+    <string name="subject_credit">Nilai </string>
+    <string name="add_new_subject">Tambah Mata Kuliah</string>
+    <string name="student_information">Informasi Mahasiswa</string>
+    <string name="name">Nama</string>
+    <string name="registration_no_with_color">NIM: </string>
+    <string name="subject_list">List Mata Kuliah</string>
+    <string name="student_list">List Mahasiswa TI</string>
+    <string name="database_summary">Total Mahasiwa: %1$d. Total Mata Kuliah: %2$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="update_button">Update</string>
+</resources>
